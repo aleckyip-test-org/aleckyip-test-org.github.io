@@ -1,1 +1,1 @@
-$(function(){var a=$('#Pagea');a.hide();$(window).scroll(function(){if($(this).scrollTop()>100){a.fadeIn();}else{a.fadeOut();}});a.click(function(){$('body,html').animate({scrollTop:0},900);return false;});});
+$(function(){var a=$('#PageTopBtn');a.hide();$(window).scroll(function(){if($(this).scrollTop()>100){a.fadeIn();}else{a.fadeOut();}});a.click(function(){$('body,html').animate({scrollTop:0},900);return false;});});
