@@ -210,7 +210,7 @@ body {
 
 #page_top a::before {
     font-weight: 900;
-    content: '↑';
+    content: '⇧';
     font-size: 40px;
     color: #fff;
     position: absolute;
